@@ -1,4 +1,4 @@
 # OverTheWire_Bandit
 https://overthewire.org/wargames/bandit/
 
-## Description for each one I've played lol
+There is a description for each level I've played lol
